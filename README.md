@@ -1,3 +1,3 @@
-# AI
+# Python
 
-The purpose of this AI repository is to store all my learnings.
+This repository consists of day-wise progress of my 100 days of Python coding.
